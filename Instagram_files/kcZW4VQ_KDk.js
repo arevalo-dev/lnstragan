@@ -1,0 +1,4 @@
+;/*FB_PKG_DELIM*/
+
+__d("PolarisChallengeRoot.entrypoint",["JSResourceForInteraction"],(function(a,b,c,d,e,f,g){"use strict";a={getPreloadProps:function(a){return{queries:{}}},root:c("JSResourceForInteraction")("PolarisChallengeRoot.react").__setRef("PolarisChallengeRoot.entrypoint")};g["default"]=a}),98);
+__d("PolarisFormFitToSize.react",["react","react-compiler-runtime"],(function(a,b,c,d,e,f,g){"use strict";var h,i=h||d("react");function a(a){var b=d("react-compiler-runtime").c(3);a=a.children;var c;b[0]===Symbol["for"]("react.memo_cache_sentinel")?(c={className:"xvbhtw8 x1yvgwvq xjd31um x1ixjvfu xwt6s21 x1fqc64z xs83zq4 xt6ovg4 x1ru8ea5 x1tdl17x x1ozs2jc x1xkla9y x1w8th2t x178xt8z x1lun4ml xso031l xpilrb4 x1c68rq xkh8qn0 xlp4a62 xkcdywq x1ykew4q x6ikm8r x10wlt62"},b[0]=c):c=b[0];b[1]!==a?(c=i.jsx("div",babelHelpers["extends"]({},c,{children:a})),b[1]=a,b[2]=c):c=b[2];return c}g["default"]=a}),98);
